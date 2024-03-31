@@ -1,1 +1,54 @@
-
+header {
+    background-image: url("pattern1.jpeg");
+    font-family: helvetica;
+    font-size: 95px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+body {
+    border: solid red 2px;
+}
+h1 {
+    background-color: mediumspringgreen;
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+img {
+    border: solid red 2px;
+    height: 200px;
+    width: 200px;
+}
+figcaption {
+    font-size: 15px;
+    color: blue;
+    font-family: helvetica;
+    font-weight: bold;
+}
+.cost {
+    font-family: helvetica;
+    font-weight: bold;
+    color: blue;
+}
+p {
+    color: black;
+}
+h2 {
+    background-color: lightcoral;
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+h3 {
+    background-color: skyblue;
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
